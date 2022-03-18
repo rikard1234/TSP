@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/48783/CLionProjects/Travelling salesman/brute_force/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+algorithm
+-
+chrono
+-
+stack
+-
+

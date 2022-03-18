@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/48783/CLionProjects/TSP_FINAL/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+algorithm
+-
+chrono
+-
+stack
+-
+time.h
+-
+ctime
+-
+random
+-
+utility
+-
+

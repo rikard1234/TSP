@@ -1,0 +1,4 @@
+burma14.txt 5 0
+gr17.txt 5 0
+gr21.txt 5 0
+gr24.txt 5 0

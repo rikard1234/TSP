@@ -1,0 +1,14 @@
+tsp_6_2.txt 1
+tsp_10.txt 1
+tsp_12.txt 1
+tsp_13.txt 1
+tsp_14.txt 1
+tsp_15.txt 1
+gr21.txt 1
+gr24.txt 1
+bays29.txt 1
+berlin52.txt 1
+ch150.txt 1
+gr202.txt 1
+pr299.txt 1
+rd400.txt 1
